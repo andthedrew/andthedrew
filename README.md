@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andthedrew but they call me andrew
+- 👋 Hi, I’m @andthedrew but they call me drew
 - 👀 I’m interested in modern tech 
 - 🌱 I’m currently learning some new computer languages
  
