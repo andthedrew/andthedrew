@@ -1,9 +1,65 @@
-- 👋 Hi, I’m @andthedrew but they call me drew
-- 👀 I’m interested in modern tech 
-- 🌱 I’m currently learning some new computer languages
- 
+# Hi there, I'm Andrew! 👋
 
-<!---
-andthedrew/andthedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate IT student with a solid foundation in computer science, cybersecurity, and software development. I'm continuously seeking opportunities to learn, grow, and make an impact in the tech world. Here's a snapshot of my journey so far:
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Education**: 
+  - Currently pursuing a **BS in Computer Science IT** at NDU Louaize, Lebanon.
+  
+
+- 💻 **Interests**: 
+  - IT Security & Cybersecurity
+  - Software Development
+  - Artificial Intelligence & Machine Learning
+
+- 🌟 **Languages & Tools**:
+  - **Programming**: C#, Dart, Flutter, Python, C++, JavaScript
+  - **Tools**: Visual Studio, Android Studio, Wazuh SIEM, VMware, VirtualBox
+  - **Database**: Firebase, SQL
+
+
+- **Enterprise Computing Project**:
+  - Collaborated on a production-focused project for Olivari, specifically on door handles.
+
+
+## 📚 Key Projects
+
+### 1. [LE2ME App](https://github.com/andthedrew/LE2ME) 🍳
+**Objective**: Revolutionize meal planning by creating AI-driven recipes based on user-input ingredients.
+**Technologies**: Flutter, Dart, Firebase
+
+### 2. Grade Management Application 🎓
+**Objective**: Built a robust Windows Forms application to manage and visualize student grades.
+**Technologies**: C#, Visual Studio
+
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- Mastering **Flutter** and **Dart** for mobile development.
+- Deepening my knowledge in **Cybersecurity** and exploring tools like **OpenVAS** and **Wazuh**.
+- Enhancing my software development skills with advanced **C#** features.
+
+---
+
+## ✨ Highlights
+
+- 🏆 Successfully balanced academics, internships, and personal projects.
+- 🌐 Experienced with multi-platform development and virtualization using VMware and VirtualBox.
+- 🎥 Represented my internship experience in a video project organized by SABIS HR.
+
+---
+
+## 📫 Get in Touch
+
+- 📧 **Email**: andrewfakhry@outlook.com
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/andrew-fakhry-9b724b216/
+
+
+---
+
+Feel free to explore my repositories and projects. I'm always open to feedback, collaboration, and learning opportunities. Let’s create something amazing together!
