@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate IT student with a solid foundatio
 
 ## 📫 Get in Touch
 
-- 📧 **Email**: andrewfakhry@outlook.com
+
 - 🌐 **LinkedIn**: https://www.linkedin.com/in/andrew-fakhry-9b724b216/
 
 
