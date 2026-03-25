@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a passionate IT student with a solid foundatio
   - IT Security & Cybersecurity
   - Software Development
   - Artificial Intelligence & Machine Learning
+  - Project Management
+  - Consulting
 
 - 🌟 **Languages & Tools**:
   - **Programming**: C#, Dart, Flutter, Python, C++, JavaScript, HTML, CSS, PHP
@@ -44,6 +46,8 @@ Welcome to my GitHub profile! I'm a passionate IT student with a solid foundatio
 - Mastering **Flutter** and **Dart** for mobile development.
 - Deepening my knowledge in **Cybersecurity** and exploring tools like **OpenVAS** and **Wazuh**.
 - Enhancing my software development skills with advanced **C#** features.
+- Doing a **Scrum PSO I** & **IPMA Level D** Certification in progress
+
 
 ---
 
