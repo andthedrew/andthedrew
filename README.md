@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm a passionate IT student with a solid foundatio
 
 ## 🚀 About Me
 
-- 🎓 **Education**: 
-  - Currently pursuing a **BS in Computer Science IT** at NDU Louaize, Lebanon.
+- 🎓 **Education**:
+  -  **M.Sc Management of technology  Information systems** Gustave Eiffel University - ESIEE, Paris
+  -  **BS in Computer Science IT** at NDU Louaize, Lebanon.
   
 
 - 💻 **Interests**: 
