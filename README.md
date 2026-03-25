@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate IT student with a solid foundatio
   - Artificial Intelligence & Machine Learning
 
 - 🌟 **Languages & Tools**:
-  - **Programming**: C#, Dart, Flutter, Python, C++, JavaScript
+  - **Programming**: C#, Dart, Flutter, Python, C++, JavaScript, HTML, CSS, PHP
   - **Tools**: Visual Studio, Android Studio, Wazuh SIEM, VMware, VirtualBox
   - **Database**: Firebase, SQL
 
