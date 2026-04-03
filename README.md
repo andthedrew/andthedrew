@@ -55,7 +55,6 @@ Welcome to my GitHub profile! I'm a passionate IT student with a solid foundatio
 
 - 🏆 Successfully balanced academics, internships, and personal projects.
 - 🌐 Experienced with multi-platform development and virtualization using VMware and VirtualBox.
-- 🎥 Represented my internship experience in a video project organized by SABIS HR.
 
 ---
 
