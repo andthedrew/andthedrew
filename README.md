@@ -27,7 +27,7 @@ I'm drawn to the intersection of technology and strategy, understanding not just
 
 ## 🚀 Projects
 
-### [FlowHub — Smart Rural Mobility](https://github.com/andthedrew) &nbsp; `🏆 3rd Place · European Hackathon 2026`
+### [FlowHub — Smart Rural Mobility](https://flowhubofficial.lovable.app) &nbsp; `🏆 3rd Place · European Hackathon 2026`
 
 A multimodal mobility concept developed at the **5th European Hackathon in Paris**, organized in partnership with the **French Ministry of Ecological Transition**.
 
@@ -42,7 +42,7 @@ The challenge: improve mobility access in rural and low-density areas. Our team 
 
 ---
 
-### [LE2ME — AI Recipe Recommendation App](https://github.com/andthedrew/LE2ME)
+### [LE2ME — AI Recipe Recommendation App](https://github.com/MarvenY/Le2me)
 
 A social + AI mobile app that generates personalized recipe recommendations based on ingredients users already have.
 
