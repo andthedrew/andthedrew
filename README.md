@@ -17,7 +17,7 @@ Consulting · Digital Transformation · AI & Emerging Tech
 
 Final-year M.Sc student at **ESIEE Paris / Gustave Eiffel University**, with a background in Computer Science (NDU Louaizeh) and hands-on experience across cybersecurity, software development, and consulting-oriented projects.
 
-I'm drawn to the intersection of technology and strategy — understanding not just how systems work, but why they matter for organizations and the people who use them. Currently targeting **consulting and tech internships** starting September 2026.
+I'm drawn to the intersection of technology and strategy, understanding not just how systems work, but why they matter for organizations and the people who use them. Currently targeting **consulting and tech internships** starting September 2026.
 
 - 🏆 **3rd Place** — 5th European Hackathon, Paris 2026 (Mobility & Sustainability track)
 - 📋 **PSPO I & IPMA Level D** certifications in progress (2026)
